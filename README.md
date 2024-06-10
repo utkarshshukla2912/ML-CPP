@@ -7,6 +7,12 @@
 - [ ] Logistic Regression with gradient descent - multi classification
 - [ ] Simple Neural Network
 
+
+### Model Layers
+### Activation Functions
+
+
+
 ### General Models
 
 - [ ]  AlexNet: [https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)
